@@ -1,15 +1,15 @@
-Synergy'25 Deepfake Challenge: Predicting the Distribution
+# Synergy'25 Deepfake Challenge: Predicting the Distribution
 
 This repository contains our winning approach for the Synergy'25 Deepfake Challenge. This project focuses on building a model to accurately mimic the outputs of a proprietary deepfake detector.
 
 
- Project Overview
+ # Project Overview
 
 
  The core challenge of this hackathon was not to create a state-of-the-art deepfake detector from scratch, but to reverse-engineer and replicate the predictive behavior of an existing "black box" model. Our initial data analysis revealed that this proprietary model was imperfect, occasionally misclassifying both real and fake images. This discovery became the cornerstone of our strategy: to succeed, we had to teach our model to replicate the target model's unique quirks and errors.
 
 
- Key Methodology
+#  Key Methodology
 
 
 
@@ -27,12 +27,12 @@ Weight Decay in the AdamW optimizer
 
 Random Erasing data augmentation
 
-Final Prediction: The final, trained model was used to generate predictions on the 500 unseen test images, resulting in our final submission file.
+# Final Prediction: The final, trained model was used to generate predictions on the 500 unseen test images, resulting in our final submission file.
 
 
 
 
- Getting Started
+# Getting Started
 
 
  Prerequisites
@@ -57,7 +57,7 @@ pip install notebook torch torchvision pandas scikit-learn tqdm
 
 
 
-Data Setup
+# Data Setup
 
 Download the official hackathon dataset.
 
@@ -68,7 +68,7 @@ Place this hackathon_dataset folder in the same root directory as the Jupyter No
 
 
 
-How to Run
+# How to Run
 
 The entire pipeline, from data preparation to final prediction, is contained in the Synergy25_Submission.ipynb notebook.
 

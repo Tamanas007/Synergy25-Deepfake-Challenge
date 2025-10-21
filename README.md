@@ -69,23 +69,6 @@ https://drive.google.com/file/d/1HlpoKbFAIUORexzLpB14x0sS17eBAj69/view?usp=shari
 
 
 
-
-# How to Run
-
-The entire pipeline, from data preparation to final prediction, is contained in the Synergy25_Submission.ipynb notebook.
-
-Launch Jupyter Notebook from your terminal:
-
-jupyter notebook
-
-
-Open the Synergy25_Submission.ipynb file.
-
-To execute the entire project, click Kernel -> Restart & Run All from the menu.
-
-
-
-
  Results
 
 Our best model achieved a validation accuracy of 89.75% on the held-out validation set.

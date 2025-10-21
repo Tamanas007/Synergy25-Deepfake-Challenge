@@ -27,7 +27,8 @@ Weight Decay in the AdamW optimizer
 
 Random Erasing data augmentation
 
-# Final Prediction: The final, trained model was used to generate predictions on the 500 unseen test images, resulting in our final submission file.
+# Final Prediction: 
+The final, trained model was used to generate predictions on the 500 unseen test images, resulting in our final submission file.
 
 
 

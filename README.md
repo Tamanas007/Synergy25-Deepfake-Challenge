@@ -86,4 +86,4 @@ To execute the entire project, click Kernel -> Restart & Run All from the menu.
 
  Results
 
-Our best model achieved a validation accuracy of [Enter Your Best Accuracy Here, e.g., 88.75%] on the held-out validation set.
+Our best model achieved a validation accuracy of 89.75% on the held-out validation set.

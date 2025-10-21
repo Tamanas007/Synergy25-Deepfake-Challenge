@@ -60,11 +60,12 @@ pip install notebook torch torchvision pandas scikit-learn tqdm
 
 # Data Setup
 
-Download the official hackathon dataset.
+Download the official hackathon dataset.(links given below)
 
 Unzip the contents into a folder named hackathon_dataset.
 
-Place this hackathon_dataset folder in the same root directory as the Jupyter Notebook.
+Place this hackathon_dataset folder in the same root directory as the Jupyter Notebook/COLAB
+https://drive.google.com/file/d/1HlpoKbFAIUORexzLpB14x0sS17eBAj69/view?usp=sharing, https://drive.google.com/drive/folders/1UkrHA7DhWaIqaaqN98ZYncUa7gFo2K84?usp=sharing, https://drive.google.com/drive/folders/1iimPVX95QDGHtUz7DrAEmseRWRaAF-n8?usp=sharing, https://drive.google.com/drive/folders/1uPO7R4cP9DohAwqazD_20JvQYC3fTqln?usp=sharing, https://drive.google.com/file/d/1xphKCuODz8WawUaJpmMtiQY_Q7Y0pp9a/view?usp=sharing
 
 
 

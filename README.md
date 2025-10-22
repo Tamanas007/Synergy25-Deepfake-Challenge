@@ -53,3 +53,5 @@ Save the best-performing model (best_model_v4_epoch_split.pth) that achieves the
 Step 3: Final Prediction
 
 Run the predict_final.py script. This loads the champion model from Step 2, runs it on the 500 test images, and generates the final teamname_prediction_FINAL.json file.
+# Recommendation
+use TTA for predicting on Test set

@@ -36,7 +36,7 @@ This project was built in Python using PyTorch, Pandas, and Scikit-learn.
 
 Step 1: Data Preparation
 
-Run the prepare_data.py script. This script reads the four initial data sources (real/fake images and real/fake JSONs) and combines them into a single master_labels.csv file, which serves as our unified ground truth.Total 3 traiining for v1,v2 and v4 models;v4 is the best one.(trained model weights link in the resources)
+Run the prepare_data.py script. This script reads the four initial data sources (real/fake images and real/fake JSONs) and combines them into a single master_labels.csv file, which serves as our unified ground truth.
 
 Step 2: Model Training (Our Winning Script)
 
@@ -55,5 +55,11 @@ Step 3: Final Prediction
 Run the predict_final.py script. This loads the champion model from Step 2, runs it on the 500 test images, and generates the final teamname_prediction_FINAL.json file.
 # Recommendation
 use TTA for predicting on Test set
-# Dataset
+# Dataset 
 https://drive.google.com/file/d/1HlpoKbFAIUORexzLpB14x0sS17eBAj69/view?usp=sharing, https://drive.google.com/drive/folders/1UkrHA7DhWaIqaaqN98ZYncUa7gFo2K84?usp=sharing, https://drive.google.com/drive/folders/1iimPVX95QDGHtUz7DrAEmseRWRaAF-n8?usp=sharing, https://drive.google.com/drive/folders/1uPO7R4cP9DohAwqazD_20JvQYC3fTqln?usp=sharing, https://drive.google.com/file/d/1xphKCuODz8WawUaJpmMtiQY_Q7Y0pp9a/view?usp=sharing
+# trained models weight
+ primary model.....https://drive.google.com/file/d/1Q87GlkEdJGIOHLBPEh-gmQK_sH5WnBdE/view?usp=drive_link
+  
+  tuned model.......https://drive.google.com/file/d/1ba4XAWaw9e2ngFfx0DYNPXHcuMAxGbVd/view?usp=drive_link
+  
+   best model........https://drive.google.com/file/d/1RCRgIFBl0VnGJzUjZWFxZWNPDZa8rZXu/view?usp=sharing

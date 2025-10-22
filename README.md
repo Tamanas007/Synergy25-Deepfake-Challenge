@@ -55,3 +55,5 @@ Step 3: Final Prediction
 Run the predict_final.py script. This loads the champion model from Step 2, runs it on the 500 test images, and generates the final teamname_prediction_FINAL.json file.
 # Recommendation
 use TTA for predicting on Test set
+# Dataset
+https://drive.google.com/file/d/1HlpoKbFAIUORexzLpB14x0sS17eBAj69/view?usp=sharing, https://drive.google.com/drive/folders/1UkrHA7DhWaIqaaqN98ZYncUa7gFo2K84?usp=sharing, https://drive.google.com/drive/folders/1iimPVX95QDGHtUz7DrAEmseRWRaAF-n8?usp=sharing, https://drive.google.com/drive/folders/1uPO7R4cP9DohAwqazD_20JvQYC3fTqln?usp=sharing, https://drive.google.com/file/d/1xphKCuODz8WawUaJpmMtiQY_Q7Y0pp9a/view?usp=sharing

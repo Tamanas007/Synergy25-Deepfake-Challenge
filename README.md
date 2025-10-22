@@ -36,7 +36,7 @@ This project was built in Python using PyTorch, Pandas, and Scikit-learn.
 
 Step 1: Data Preparation
 
-Run the prepare_data.py script. This script reads the four initial data sources (real/fake images and real/fake JSONs) and combines them into a single master_labels.csv file, which serves as our unified ground truth.
+Run the prepare_data.py script. This script reads the four initial data sources (real/fake images and real/fake JSONs) and combines them into a single master_labels.csv file, which serves as our unified ground truth.Total 3 traiining for v1,v2 and v4 models;v4 is the best one.(trained model weights link in the resources)
 
 Step 2: Model Training (Our Winning Script)
 
